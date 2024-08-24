@@ -1,5 +1,5 @@
-#This is a sample project for connecting to GitHub
+# This is a sample project for connecting to GitHub
 
 Testing for a code
 
-""git commit -am "<comment>""
+`git commit -am "<comment>"`
